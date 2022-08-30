@@ -1,6 +1,10 @@
 
 ## Unreleased 
 
+### 🐛 Fixes
+
+- add master close request action ([9094335](https://github.com/BrandSourceDigital/alta/commit/909433521d12d2101e3334fc4fc849ffc2c1167e))
+
 
 ## v1.26.0 (2022-8-30)
 
@@ -8,6 +12,10 @@
 
 - add new feature file 2 ([a4568b7](https://github.com/BrandSourceDigital/alta/commit/a4568b7b2cf50f1f4e281a7b222e8239ad7624b6))
 - add new feature file ([e7e9e37](https://github.com/BrandSourceDigital/alta/commit/e7e9e37d471e9feaa1b4ebed3e63b654873a48b7))
+
+### 🐛 Fixes
+
+- this is a simulated hotfix ([b0ab5f6](https://github.com/BrandSourceDigital/alta/commit/b0ab5f6e70fda551a667e76a7c5086e9089869a3))
 
 
 ## v1.25.0 (2022-8-30)
