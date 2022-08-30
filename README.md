@@ -7,3 +7,5 @@
 # new feature
 
 # new feature
+
+# fixed a bug
