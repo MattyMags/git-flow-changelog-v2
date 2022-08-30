@@ -17,6 +17,7 @@ jobs:
       - name: Create release branch
         run: git checkout -b release/${{ github.event.inputs.version }}
 
+      - uses: actions/checkout@v2
       - name: Update changelog
         run: yarn install && yarn changelog
 
