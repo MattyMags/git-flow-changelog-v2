@@ -5,10 +5,10 @@ on:
     types:
       - completed
   pull_request:
-  branches:
-    - master
-  types:
-    - closed
+    branches:
+      - master
+    types:
+      - closed
 
 jobs:
   update:
