@@ -10,6 +10,7 @@
 
 ### 🐛 Fixes
 
+- fix more bs ([69e4510](https://github.com/BrandSourceDigital/alta/commit/69e4510d9562f0b1ca77a40686d3b40b09345dad))
 - fix fix stupid shit ([25a05d5](https://github.com/BrandSourceDigital/alta/commit/25a05d54f0ab730e5e5ea628c928d317ec20d299))
 
 
