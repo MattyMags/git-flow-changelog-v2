@@ -4,6 +4,485 @@
     "date": null,
     "commits": [
       {
+        "fullHash": "77dcfe888509b2b3bd731f30f80e8d942d1dd665",
+        "partialHash": "77dcfe8",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:31:46.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:31:46.000Z",
+        "subject": "fix: fix some shit",
+        "body": "",
+        "tags": [],
+        "type": "fix",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "fix some shit"
+      },
+      {
+        "fullHash": "17c6fe53b7f9395bcac9747012cdc7ec54276871",
+        "partialHash": "17c6fe5",
+        "author": {
+          "name": "MM",
+          "email": "85508050+MattyMags@users.noreply.github.com"
+        },
+        "authorTime": "2022-08-30T18:30:19.000Z",
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T18:30:19.000Z",
+        "subject": "Merge pull request #10 from MattyMags/master",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Merge pull request #10 from MattyMags/master",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "5bbe4d38fcb28e6d1b69c80a187e56374fc3fcf5",
+        "partialHash": "5bbe4d3",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:29:57.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:29:57.000Z",
+        "subject": "feat: added hash back",
+        "body": "",
+        "tags": [],
+        "type": "feat",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "added hash back"
+      }
+    ]
+  },
+  "vv1.5.0": {
+    "title": "vv1.5.0",
+    "date": "2022-8-30",
+    "commits": []
+  },
+  "v1.5.0": {
+    "title": "v1.5.0",
+    "date": "2022-8-30",
+    "commits": [
+      {
+        "fullHash": "3aa9f3b62e29fc42192a8fad492ba5a9d51ca92c",
+        "partialHash": "3aa9f3b",
+        "author": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "authorTime": "2022-08-30T18:28:46.000Z",
+        "committer": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T18:28:46.000Z",
+        "subject": "Prepare release v1.5.0",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Prepare release v1.5.0",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "f79302a719c3dcebdd2c3426c59cf4e38a7984e7",
+        "partialHash": "f79302a",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:28:19.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:28:19.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "48e3a5a6584f0c5b56da7f391cf041a7728b2b32",
+        "partialHash": "48e3a5a",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:26:31.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:26:31.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "acbd0ac6896abbeefd30f5aef0876b4ee803b033",
+        "partialHash": "acbd0ac",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:25:16.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:25:16.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "4e78c423eb1969f4e5af5988e7762a1c2cc40fd7",
+        "partialHash": "4e78c42",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:22:39.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:22:39.000Z",
+        "subject": "Merge branch 'dev' of https://github.com/MattyMags/git-flow-changelog-v2 into dev",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "//github.com/MattyMags/git-flow-changelog-v2 into dev"
+      },
+      {
+        "fullHash": "9e17278ac9cacbde0c1d4393cb30110e5ed6f72c",
+        "partialHash": "9e17278",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:22:36.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:22:36.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "f128c4fa9b1ba0017f3f595569123e26ad015aaa",
+        "partialHash": "f128c4f",
+        "author": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "authorTime": "2022-08-30T18:19:48.000Z",
+        "committer": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T18:19:48.000Z",
+        "subject": "Prepare release v1.5.0",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Prepare release v1.5.0",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "c22301c3d3f5ebc50c81ac7453592433bcbd6c2a",
+        "partialHash": "c22301c",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:18:57.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:18:57.000Z",
+        "subject": "wip: new feature",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "new feature"
+      },
+      {
+        "fullHash": "51dab11f10b479de181c3d2f1c00432cf2579f5e",
+        "partialHash": "51dab11",
+        "author": {
+          "name": "MM",
+          "email": "85508050+MattyMags@users.noreply.github.com"
+        },
+        "authorTime": "2022-08-30T18:18:31.000Z",
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T18:18:31.000Z",
+        "subject": "Merge pull request #8 from MattyMags/master",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Merge pull request #8 from MattyMags/master",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "6db0aad0b103426818103401d4651463e759b7d8",
+        "partialHash": "6db0aad",
+        "author": {
+          "name": "MM",
+          "email": "85508050+MattyMags@users.noreply.github.com"
+        },
+        "authorTime": "2022-08-30T18:18:24.000Z",
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T18:18:24.000Z",
+        "subject": "Merge branch 'dev' into master",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Merge branch 'dev' into master",
+        "breakingChange": false
+      }
+    ]
+  },
+  "v1.4.0": {
+    "title": "v1.4.0",
+    "date": "2022-8-30",
+    "commits": [
+      {
+        "fullHash": "1b182dbb23db9f0931d342ede26acf0029527bc9",
+        "partialHash": "1b182db",
+        "author": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "authorTime": "2022-08-30T18:17:24.000Z",
+        "committer": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T18:17:24.000Z",
+        "subject": "Prepare release v1.4.0",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Prepare release v1.4.0",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "c97806385ac1ce4ea63fe18ab14878c85d592000",
+        "partialHash": "c978063",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:16:59.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:16:59.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "7157da8162d5ed0c0931c46623c5a32b05f0ccc1",
+        "partialHash": "7157da8",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:15:23.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:15:23.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "de0886eb02483782fcc6ba24e99090cdb48783c6",
+        "partialHash": "de0886e",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:10:45.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:10:45.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "dc1d7f1fd94b6f310dd414dde1887cd09487876a",
+        "partialHash": "dc1d7f1",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:10:00.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:10:00.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "4d2f392940b6fc2ce31cbd630d13225e3ef1b7c8",
+        "partialHash": "4d2f392",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:08:50.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:08:50.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "2132f2e08d8a784be08f42c5f62d01f99dd21e2c",
+        "partialHash": "2132f2e",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:06:01.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:06:01.000Z",
+        "subject": "wip",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "wip",
+        "breakingChange": false
+      },
+      {
+        "fullHash": "1a88b4b949df62ff852ae5f4e235f1e0764b8ded",
+        "partialHash": "1a88b4b",
+        "author": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "authorTime": "2022-08-30T18:04:31.000Z",
+        "committer": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T18:04:31.000Z",
+        "subject": "Prepare release v1.4.0",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Prepare release v1.4.0",
+        "breakingChange": false
+      },
+      {
         "fullHash": "331c5ff2166e6566e54464ece7644cf18db19fe1",
         "partialHash": "331c5ff",
         "author": {
@@ -136,11 +615,6 @@
         "breakingChange": false
       }
     ]
-  },
-  "vv1.3.0": {
-    "title": "vv1.3.0",
-    "date": "2022-8-30",
-    "commits": []
   },
   "v1.3.0": {
     "title": "v1.3.0",
