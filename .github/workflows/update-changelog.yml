@@ -1,6 +1,11 @@
 name: "Update Changelog"
 
-on: workflow_dispatch
+on:
+  pull_request:
+    branches:
+      - master
+    types:
+      - closed
 
 jobs:
   update:
