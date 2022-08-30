@@ -13,15 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-         with:
+        with:
           fetch-depth: 0
       - name: Create release branch
         run: git checkout -b release/${{ github.event.inputs.version }}
 
-
- 
       - name: Update changelog
-        run: yarn install && yarn changelog
+        run: git rev-list --remotes && yarn install && yarn changelog
 
       # In order to make a commit, we need to initialize a user.
       # You may choose to write something less generic here if you want, it doesn't matter functionality wise.
