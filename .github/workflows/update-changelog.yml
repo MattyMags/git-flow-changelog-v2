@@ -27,7 +27,7 @@ jobs:
           file_pattern: CHANGELOG.md
       - name: Merge master into dev branch
         run: |
-          git fetch --unshallow
+          git fetch 
           git checkout dev
           git pull
           git merge origin/master -m "chore: auto merge master back to nextjs"
