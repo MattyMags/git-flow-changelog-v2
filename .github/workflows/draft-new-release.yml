@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Generate Changelog
+        run: yarn install && yarn changelog
+      - uses: actions/checkout@v2
       - name: Create release branch
         run: git checkout -b release/${{ github.event.inputs.version }}
 
@@ -26,12 +29,6 @@ jobs:
       - name: Bump version in package.json
         run: yarn version --new-version ${{ github.event.inputs.version }} --no-git-tag-version
 
-      - uses: actions/checkout@v2
-      - name: Generate Changelog
-        run: yarn install && yarn changelog
-
-      - name: Check release branch back out
-        run: git checkout release/${{github.event.inputs.version}}
       - name: Commit changelog and manifest files
         id: make-commit
         run: |
