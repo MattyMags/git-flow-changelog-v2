@@ -1,12 +1,19 @@
 
 ## Unreleased 
 
+
+## v1.17.0 (2022-8-30)
+
 ### 🐛 Fixes
 
-- add log statemet ([d9a7f2f](https://github.com/BrandSourceDigital/alta/commit/d9a7f2f3e153e5741e409b9421531ea49d33ef15))
+- add more shit ([fb8c726](https://github.com/BrandSourceDigital/alta/commit/fb8c7261f371f754b9967eef407db06c96899202))
 
 
 ## v1.16.0 (2022-8-30)
+
+### 🐛 Fixes
+
+- add log statemet ([d9a7f2f](https://github.com/BrandSourceDigital/alta/commit/d9a7f2f3e153e5741e409b9421531ea49d33ef15))
 
 
 ## v1.15.0 (2022-8-30)
