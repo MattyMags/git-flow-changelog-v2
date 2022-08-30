@@ -76,6 +76,7 @@ let curTag = releaseAsVersion ? `v${version}` : "unreleased";
 
 const log = gitLogSync({
   startRef: "e7b9bdca12f77a3bbb39cf05c071b3b235c4c6e9",
+  dir: "./",
 }).map((entry) => {
   const { subject, body } = entry;
   const subjectSanitize = subject.replace(/</g, "&lt;").replace(/>/g, "&gt;");
