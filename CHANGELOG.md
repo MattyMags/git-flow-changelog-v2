@@ -1,57 +1,12 @@
 
 ## Unreleased 
 
-
-## vv1.11.0 (2022-8-30)
-
-
-## v1.11.0 (2022-8-30)
-
 ### 🐛 Fixes
 
-- **Changelog:** who knows what im fixiing anymore ([afed90f](https://github.com/BrandSourceDigital/alta/commit/afed90fc3a944b26edea9ad51b05044d8e0deec9))
+- **Product:** fixed a bug ([9c61f13](https://github.com/BrandSourceDigital/alta/commit/9c61f134c6059e35b07f368c3e77c3eed0156482))
 
 
-## v1.10.0 (2022-8-30)
-
-### ✨ Features
-
-- added another new feature ([6b72968](https://github.com/BrandSourceDigital/alta/commit/6b72968fe82b70c110437d75f7539e8d9a4a8598))
-
-
-## v1.9.0 (2022-8-30)
-
-### ✨ Features
-
-- added to readme ([500b499](https://github.com/BrandSourceDigital/alta/commit/500b4998cf9699aad984bcb05025f200bf2bf273))
-
-
-## v1.8.0 (2022-8-30)
-
-
-## v1.7.0 (2022-8-30)
-
-### ✨ Features
-
-- added commit pls work work ([117cec9](https://github.com/BrandSourceDigital/alta/commit/117cec99072b92a81b6cb04003a04f04dab3eeea))
-- added commit pls work work ([6df726d](https://github.com/BrandSourceDigital/alta/commit/6df726d32f5404b07bba66faa453c18e8eab7429))
-- added commit pls work work ([d67a2b7](https://github.com/BrandSourceDigital/alta/commit/d67a2b74d9bb5f9443d7ada3c067f69a020d6210))
-- added commit pls work ([b142998](https://github.com/BrandSourceDigital/alta/commit/b142998009ad6b7cde0f82b082f1781dcb63ffc9))
-- added a new feature ([b3d0a2e](https://github.com/BrandSourceDigital/alta/commit/b3d0a2e8833102003986a21285818aa6df44cfcb))
-
-
-## v1.6.0 (2022-8-30)
-
-### ✨ Features
-
-- added hash back ([5bbe4d3](https://github.com/BrandSourceDigital/alta/commit/5bbe4d38fcb28e6d1b69c80a187e56374fc3fcf5))
-
-### 🐛 Fixes
-
-- **Changelog:** who knows what im fixiing anymore ([afed90f](https://github.com/BrandSourceDigital/alta/commit/afed90fc3a944b26edea9ad51b05044d8e0deec9))
-
-
-## vv1.12.0 (2022-8-30)
+## vv1.13.0 (2022-8-30)
 
 
 ## undefined (2022-8-30)
