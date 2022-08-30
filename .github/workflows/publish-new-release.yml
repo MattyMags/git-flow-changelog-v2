@@ -1,10 +1,11 @@
 name: "Publish new release"
 
 on:
-  workflow_run:
-    workflows: ["Update Changelog"]
+  pull_request:
+    branches:
+      - master
     types:
-      - completed
+      - closed
 
 jobs:
   release:
@@ -56,16 +57,12 @@ jobs:
           prerelease: false
 
       - name: Merge master into dev branch
-        uses: thomaseizinger/create-pull-request@1.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          head: master
-          base: dev
-          title: Merge master into dev branch
-          body: |
-            This PR merges the master branch back into dev.
-            This happens to ensure that the updates that happend on the release branch, i.e. CHANGELOG and manifest updates are also present on the dev branch.
+        run: |
+          git fetch --unshallow
+          git checkout dev
+          git pull
+          git merge origin/master -m "chore: auto merge master back to nextjs"
+          git push
 
       # if needed, you can checkout the latest master here, build artifacts and publish / deploy them somewhere
       # the create-release action has an output `upload_url` output that you can use to upload assets

@@ -1,11 +1,9 @@
 name: "Update Changelog"
 
-on:
-  pull_request:
-    branches:
-      - master
+  workflow_run:
+    workflows: ["Publish new release"]
     types:
-      - closed
+      - completed
 
 jobs:
   update:
@@ -27,3 +25,10 @@ jobs:
           branch: master
           commit_message: Update CHANGELOG
           file_pattern: CHANGELOG.md
+      - name: Merge master into dev branch
+        run: |
+          git fetch --unshallow
+          git checkout dev
+          git pull
+          git merge origin/master -m "chore: auto merge master back to nextjs"
+          git push
