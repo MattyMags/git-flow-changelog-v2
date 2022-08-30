@@ -1,11 +1,9 @@
 name: "Publish new release"
 
-on:
-  pull_request:
-    branches:
-      - master
+  workflow_run:
+    workflows: ["Update Changelog"]
     types:
-      - closed
+      - completed
 
 jobs:
   release:
