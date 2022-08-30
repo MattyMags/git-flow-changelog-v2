@@ -3,10 +3,17 @@
 
 ### 🐛 Fixes
 
-- **Changelog:** remove v ([a95bb58](https://github.com/BrandSourceDigital/alta/commit/a95bb5818429e93eaa595a696376e6a8047c9402))
+- add log statemet ([d9a7f2f](https://github.com/BrandSourceDigital/alta/commit/d9a7f2f3e153e5741e409b9421531ea49d33ef15))
+
+
+## v1.16.0 (2022-8-30)
 
 
 ## v1.15.0 (2022-8-30)
+
+### 🐛 Fixes
+
+- **Changelog:** remove v ([a95bb58](https://github.com/BrandSourceDigital/alta/commit/a95bb5818429e93eaa595a696376e6a8047c9402))
 
 
 ## v1.14.0 (2022-8-30)
