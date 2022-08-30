@@ -18,9 +18,6 @@ jobs:
       - name: Create release branch
         run: git checkout -b release/${{ github.event.inputs.version }}
 
-      - name: Update changelog
-        run: git rev-list --remotes && yarn install && yarn changelog
-
       # In order to make a commit, we need to initialize a user.
       # You may choose to write something less generic here if you want, it doesn't matter functionality wise.
       - name: Initialize mandatory git config
@@ -32,6 +29,9 @@ jobs:
       # Fortunately, yarn has a built-in command for doing this!
       - name: Bump version in package.json
         run: yarn version --new-version ${{ github.event.inputs.version }} --no-git-tag-version
+
+      - name: Update changelog
+        run: git rev-list --remotes && yarn install && yarn changelog
 
       - name: Commit changelog and manifest files
         id: make-commit
