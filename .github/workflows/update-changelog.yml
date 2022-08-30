@@ -1,5 +1,7 @@
 name: "Update Changelog"
 on:
+  workflow_dispatch:
+
   workflow_run:
     workflows: ["Publish new release"]
     types:
