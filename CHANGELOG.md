@@ -3,10 +3,15 @@
 
 ### 🐛 Fixes
 
+- idk ([a54e1fe](https://github.com/BrandSourceDigital/alta/commit/a54e1feca8e8db2e6ea0987142e83d928d7f8dd3))
 - switch around actions ([fe34935](https://github.com/BrandSourceDigital/alta/commit/fe34935c09c8b83d58c7a820a1e55504ef7f01be))
 
+### 🔧 Chores
 
-## v1.19.0 (2022-8-30)
+- add to readme ([ffea519](https://github.com/BrandSourceDigital/alta/commit/ffea519311a6fa4f478e916345961b91d5f13701))
+
+
+## v1.20.0 (2022-8-30)
 
 
 ## v1.18.0 (2022-8-30)
