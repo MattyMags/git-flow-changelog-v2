@@ -96,8 +96,8 @@ const logTree = {
     date: null,
     commits: [],
   },
-  [`v${version}`]: {
-    title: `v${version}`,
+  [`${version}`]: {
+    title: `${version}`,
     date: getTitleDate(),
     commits: [],
   },
