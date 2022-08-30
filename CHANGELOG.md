@@ -1,13 +1,13 @@
 
 ## Unreleased 
 
+
+## v1.25.0 (2022-8-30)
+
 ### ✨ Features
 
 - add line to readme ([5dc69e8](https://github.com/BrandSourceDigital/alta/commit/5dc69e858a56e532f2de8e3a7f43873d816469f7))
 - add button 2 ([ccb9847](https://github.com/BrandSourceDigital/alta/commit/ccb9847962df4589676bc081f44f38912fe65283))
-
-
-## v1.25.0 (2022-8-30)
 
 
 ## v1.24.0 (2022-8-30)
