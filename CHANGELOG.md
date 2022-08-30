@@ -10,8 +10,13 @@
 
 ### 🐛 Fixes
 
+- sync shit ([82d9c27](https://github.com/BrandSourceDigital/alta/commit/82d9c278a24a543a21af45e3ad6f813d9031aae3))
 - fix more bs ([69e4510](https://github.com/BrandSourceDigital/alta/commit/69e4510d9562f0b1ca77a40686d3b40b09345dad))
 - fix fix stupid shit ([25a05d5](https://github.com/BrandSourceDigital/alta/commit/25a05d54f0ab730e5e5ea628c928d317ec20d299))
+- simulate a hotfix in readme ([1417f17](https://github.com/BrandSourceDigital/alta/commit/1417f1739bf1a3c72fb1fa45539713905b7861fd))
+
+
+## 1.27.0 (2022-8-30)
 
 
 ## v1.26.0 (2022-8-30)
