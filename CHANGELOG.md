@@ -3,7 +3,7 @@
 
 ### ✨ Features
 
-- add changelog back ([1c79f42](https://github.com/BrandSourceDigital/alta/commit/1c79f420b54c2ab035baac885801f44fd20275bd))
+- changelog is being a big baby ([331c5ff](https://github.com/BrandSourceDigital/alta/commit/331c5ff2166e6566e54464ece7644cf18db19fe1))
 
 
-## vv1.3.0 (2022-8-30)
+## vv1.4.0 (2022-8-30)
