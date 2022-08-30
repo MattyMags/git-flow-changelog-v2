@@ -1,6 +1,6 @@
 {
   "name": "git-flow-changelog-v2",
-  "version": "v1.15.0",
+  "version": "v1.16.0",
   "description": "",
   "main": "index.js",
   "scripts": {
