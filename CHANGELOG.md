@@ -3,6 +3,8 @@
 
 ### 🐛 Fixes
 
+- fix update-changelog script ([b441f8c](https://github.com/BrandSourceDigital/alta/commit/b441f8c2d5528cecba0eea261af0e85b0bf24afb))
+- fix a bunch of shit ([71088da](https://github.com/BrandSourceDigital/alta/commit/71088da5232f30a3cc2a671b4bbe85fb6d044bd6))
 - idk ([a54e1fe](https://github.com/BrandSourceDigital/alta/commit/a54e1feca8e8db2e6ea0987142e83d928d7f8dd3))
 - switch around actions ([fe34935](https://github.com/BrandSourceDigital/alta/commit/fe34935c09c8b83d58c7a820a1e55504ef7f01be))
 
@@ -11,7 +13,7 @@
 - add to readme ([ffea519](https://github.com/BrandSourceDigital/alta/commit/ffea519311a6fa4f478e916345961b91d5f13701))
 
 
-## v1.20.0 (2022-8-30)
+## v1.21.0 (2022-8-30)
 
 
 ## v1.18.0 (2022-8-30)
