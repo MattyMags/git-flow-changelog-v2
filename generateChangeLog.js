@@ -107,7 +107,7 @@ log.forEach((entry) => {
   const { tags, commitTime } = entry;
 
   if (tags.length > 0) {
-    curTag = tags[0];
+    curTag = tags[1];
 
     logTree[curTag] = {
       title: curTag,

@@ -48,35 +48,13 @@
 
 ### 🐛 Fixes
 
-- fix some shit ([77dcfe8](https://github.com/BrandSourceDigital/alta/commit/77dcfe888509b2b3bd731f30f80e8d942d1dd665))
+- **Changelog:** who knows what im fixiing anymore ([afed90f](https://github.com/BrandSourceDigital/alta/commit/afed90fc3a944b26edea9ad51b05044d8e0deec9))
 
 
-## v1.5.0 (2022-8-30)
+## vv1.12.0 (2022-8-30)
 
 
-## v1.4.0 (2022-8-30)
-
-### ✨ Features
-
-- changelog is being a big baby ([331c5ff](https://github.com/BrandSourceDigital/alta/commit/331c5ff2166e6566e54464ece7644cf18db19fe1))
-- ok ([3062cd9](https://github.com/BrandSourceDigital/alta/commit/3062cd949fa5dc5919d365d2517ab217a9185f9e))
-
-
-## v1.3.0 (2022-8-30)
-
-### ✨ Features
-
-- add changelog back ([1c79f42](https://github.com/BrandSourceDigital/alta/commit/1c79f420b54c2ab035baac885801f44fd20275bd))
-
-
-## v1.2.0 (2022-8-30)
-
-### ✨ Features
-
-- new feature ([a1bd759](https://github.com/BrandSourceDigital/alta/commit/a1bd759acb3bb5c093c70f1006b496087df2b51f))
-
-
-## v1.1.0 (2022-8-30)
+## undefined (2022-8-30)
 
 ### ✨ Features
 
