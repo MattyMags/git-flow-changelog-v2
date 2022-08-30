@@ -3,14 +3,24 @@
 
 ### ✨ Features
 
+- added to readme ([500b499](https://github.com/BrandSourceDigital/alta/commit/500b4998cf9699aad984bcb05025f200bf2bf273))
+
+
+## vv1.8.0 (2022-8-30)
+
+
+## v1.8.0 (2022-8-30)
+
+
+## v1.7.0 (2022-8-30)
+
+### ✨ Features
+
 - added commit pls work work ([117cec9](https://github.com/BrandSourceDigital/alta/commit/117cec99072b92a81b6cb04003a04f04dab3eeea))
 - added commit pls work work ([6df726d](https://github.com/BrandSourceDigital/alta/commit/6df726d32f5404b07bba66faa453c18e8eab7429))
 - added commit pls work work ([d67a2b7](https://github.com/BrandSourceDigital/alta/commit/d67a2b74d9bb5f9443d7ada3c067f69a020d6210))
 - added commit pls work ([b142998](https://github.com/BrandSourceDigital/alta/commit/b142998009ad6b7cde0f82b082f1781dcb63ffc9))
 - added a new feature ([b3d0a2e](https://github.com/BrandSourceDigital/alta/commit/b3d0a2e8833102003986a21285818aa6df44cfcb))
-
-
-## vv1.6.0 (2022-8-30)
 
 
 ## v1.6.0 (2022-8-30)
