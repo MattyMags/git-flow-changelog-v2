@@ -3,10 +3,17 @@
 
 ### ✨ Features
 
+- added another new feature ([6b72968](https://github.com/BrandSourceDigital/alta/commit/6b72968fe82b70c110437d75f7539e8d9a4a8598))
+
+
+## vv1.9.0 (2022-8-30)
+
+
+## v1.9.0 (2022-8-30)
+
+### ✨ Features
+
 - added to readme ([500b499](https://github.com/BrandSourceDigital/alta/commit/500b4998cf9699aad984bcb05025f200bf2bf273))
-
-
-## vv1.8.0 (2022-8-30)
 
 
 ## v1.8.0 (2022-8-30)
