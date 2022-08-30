@@ -1,6 +1,14 @@
 
 ## Unreleased 
 
+### ✨ Features
+
+- add new feature file 2 ([a4568b7](https://github.com/BrandSourceDigital/alta/commit/a4568b7b2cf50f1f4e281a7b222e8239ad7624b6))
+- add new feature file ([e7e9e37](https://github.com/BrandSourceDigital/alta/commit/e7e9e37d471e9feaa1b4ebed3e63b654873a48b7))
+
+
+## v1.26.0 (2022-8-30)
+
 
 ## v1.25.0 (2022-8-30)
 
@@ -8,6 +16,10 @@
 
 - add line to readme ([5dc69e8](https://github.com/BrandSourceDigital/alta/commit/5dc69e858a56e532f2de8e3a7f43873d816469f7))
 - add button 2 ([ccb9847](https://github.com/BrandSourceDigital/alta/commit/ccb9847962df4589676bc081f44f38912fe65283))
+
+### 🐛 Fixes
+
+- fix a hotfix ([ee47663](https://github.com/BrandSourceDigital/alta/commit/ee47663ac14375bf48294ec2911c158b658f1986))
 
 
 ## v1.24.0 (2022-8-30)
