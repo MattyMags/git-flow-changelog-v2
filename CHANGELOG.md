@@ -3,10 +3,14 @@
 
 ### 🐛 Fixes
 
+- **Changelog:** remove v ([a95bb58](https://github.com/BrandSourceDigital/alta/commit/a95bb5818429e93eaa595a696376e6a8047c9402))
+
+
+## v1.14.0 (2022-8-30)
+
+### 🐛 Fixes
+
 - **Changelog:** add back cur tag ([ba0d24c](https://github.com/BrandSourceDigital/alta/commit/ba0d24c3caff697a7e359ee912fbbdc92a09e7d0))
-
-
-## vv1.14.0 (2022-8-30)
 
 
 ## v1.13.0 (2022-8-30)
