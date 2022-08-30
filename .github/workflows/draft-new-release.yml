@@ -46,7 +46,7 @@ jobs:
           echo "::set-output name=commit::$(git rev-parse HEAD)"
 
       - name: Push new branch
-        run: git push origin release/${{ github.event.inputs.version }}
+        run: git push origin ${GITHUB_REF##*/}
 
       - name: Create pull request
         uses: thomaseizinger/create-pull-request@1.0.0
