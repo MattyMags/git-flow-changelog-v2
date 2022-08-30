@@ -13,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
       - name: Create release branch
         run: git checkout -b release/${{ github.event.inputs.version }}
 
@@ -36,7 +35,6 @@ jobs:
 
       - uses: actions/checkout@v2
       - name: Generate Changelog
-        working-directory:
         run: yarn install && yarn changelog
 
       - name: Commit changelog and manifest files
@@ -47,7 +45,6 @@ jobs:
 
           echo "::set-output name=commit::$(git rev-parse HEAD)"
 
-      - uses: actions/checkout@v2
       - name: Push new branch
         run: git push origin release/${{ github.event.inputs.version }}
 
