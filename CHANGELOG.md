@@ -1,6 +1,14 @@
 
 ## Unreleased 
 
+### ✨ Features
+
+- add new button ([4451d74](https://github.com/BrandSourceDigital/alta/commit/4451d7462e88a98b72104377ef1a44c66fe1a6bf))
+- test new branches 1 ([8555b63](https://github.com/BrandSourceDigital/alta/commit/8555b63df2c7a89eefc226c4805296121b6e4855))
+
+
+## v1.24.0 (2022-8-30)
+
 
 ## v1.23.0 (2022-8-30)
 
