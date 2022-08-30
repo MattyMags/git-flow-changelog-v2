@@ -4,6 +4,28 @@
     "date": null,
     "commits": [
       {
+        "fullHash": "331c5ff2166e6566e54464ece7644cf18db19fe1",
+        "partialHash": "331c5ff",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T18:03:50.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T18:03:50.000Z",
+        "subject": "feat: changelog is being a big baby",
+        "body": "",
+        "tags": [],
+        "type": "feat",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "changelog is being a big baby"
+      },
+      {
         "fullHash": "7f695edcbe0b535982758c04d818fb1d6b9d5613",
         "partialHash": "7f695ed",
         "author": {
