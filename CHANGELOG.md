@@ -1,6 +1,9 @@
 
 ## Unreleased 
 
+
+## v1.21.0 (2022-8-30)
+
 ### 🐛 Fixes
 
 - fix update-changelog script ([b441f8c](https://github.com/BrandSourceDigital/alta/commit/b441f8c2d5528cecba0eea261af0e85b0bf24afb))
@@ -11,9 +14,6 @@
 ### 🔧 Chores
 
 - add to readme ([ffea519](https://github.com/BrandSourceDigital/alta/commit/ffea519311a6fa4f478e916345961b91d5f13701))
-
-
-## v1.21.0 (2022-8-30)
 
 
 ## v1.18.0 (2022-8-30)
