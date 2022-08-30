@@ -34,14 +34,10 @@ jobs:
       - name: Bump version in package.json
         run: yarn version --new-version ${{ github.event.inputs.version }} --no-git-tag-version
 
-      - name: Install deps
-        run: |
-          yarn install
-
       - uses: actions/checkout@v2
       - name: Generate Changelog
         working-directory:
-        run: yarn changelog
+        run: yarn install && yarn changelog
 
       - name: Commit changelog and manifest files
         id: make-commit
