@@ -2,7 +2,14 @@
 ## Unreleased 
 
 
-## vv1.10.0 (2022-8-30)
+## vv1.11.0 (2022-8-30)
+
+
+## v1.11.0 (2022-8-30)
+
+### 🐛 Fixes
+
+- **Changelog:** who knows what im fixiing anymore ([afed90f](https://github.com/BrandSourceDigital/alta/commit/afed90fc3a944b26edea9ad51b05044d8e0deec9))
 
 
 ## v1.10.0 (2022-8-30)
