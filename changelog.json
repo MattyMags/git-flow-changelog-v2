@@ -4,6 +4,149 @@
     "date": null,
     "commits": [
       {
+        "fullHash": "7f695edcbe0b535982758c04d818fb1d6b9d5613",
+        "partialHash": "7f695ed",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T17:58:54.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T17:58:54.000Z",
+        "subject": "wip: fix changelog",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "fix changelog"
+      },
+      {
+        "fullHash": "ddad1882cc8ac48833c250b6288966569c481567",
+        "partialHash": "ddad188",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T17:54:59.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T17:54:59.000Z",
+        "subject": "wip: fix changelog",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "fix changelog"
+      },
+      {
+        "fullHash": "c7783c1abdad8e127c0b721a9610b02792bb6cf3",
+        "partialHash": "c7783c1",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T17:40:24.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T17:40:24.000Z",
+        "subject": "Merge branch 'dev' of https://github.com/MattyMags/git-flow-changelog-v2 into dev",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "//github.com/MattyMags/git-flow-changelog-v2 into dev"
+      },
+      {
+        "fullHash": "3062cd949fa5dc5919d365d2517ab217a9185f9e",
+        "partialHash": "3062cd9",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T17:39:33.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T17:39:33.000Z",
+        "subject": "feat: ok",
+        "body": "",
+        "tags": [],
+        "type": "feat",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "ok"
+      },
+      {
+        "fullHash": "98e2582301139150768cf1948be98d40553a2783",
+        "partialHash": "98e2582",
+        "author": {
+          "name": "MM",
+          "email": "85508050+MattyMags@users.noreply.github.com"
+        },
+        "authorTime": "2022-08-30T17:26:42.000Z",
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T17:26:42.000Z",
+        "subject": "Merge pull request #6 from MattyMags/master",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Merge pull request #6 from MattyMags/master",
+        "breakingChange": false
+      }
+    ]
+  },
+  "vv1.3.0": {
+    "title": "vv1.3.0",
+    "date": "2022-8-30",
+    "commits": []
+  },
+  "v1.3.0": {
+    "title": "v1.3.0",
+    "date": "2022-8-30",
+    "commits": [
+      {
+        "fullHash": "f19fe9006b45fe71c5a60c6bad62a06991c2ee23",
+        "partialHash": "f19fe90",
+        "author": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "authorTime": "2022-08-30T17:25:45.000Z",
+        "committer": {
+          "name": "GitHub actions",
+          "email": "noreply@github.com"
+        },
+        "commitTime": "2022-08-30T17:25:45.000Z",
+        "subject": "Prepare release v1.3.0",
+        "body": "",
+        "tags": [],
+        "type": null,
+        "scope": null,
+        "scopeText": null,
+        "description": "Prepare release v1.3.0",
+        "breakingChange": false
+      },
+      {
         "fullHash": "1c79f420b54c2ab035baac885801f44fd20275bd",
         "partialHash": "1c79f42",
         "author": {
@@ -48,11 +191,6 @@
         "breakingChange": false
       }
     ]
-  },
-  "vv1.2.0": {
-    "title": "vv1.2.0",
-    "date": "2022-8-30",
-    "commits": []
   },
   "v1.2.0": {
     "title": "v1.2.0",
@@ -305,6 +443,28 @@
         "scopeText": null,
         "breakingChange": false,
         "description": "set up workspace"
+      },
+      {
+        "fullHash": "e7b9bdca12f77a3bbb39cf05c071b3b235c4c6e9",
+        "partialHash": "e7b9bdc",
+        "author": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "authorTime": "2022-08-30T16:51:33.000Z",
+        "committer": {
+          "name": "MattyMags",
+          "email": "matthew.magnotta@avb.net"
+        },
+        "commitTime": "2022-08-30T16:51:33.000Z",
+        "subject": "feat: init",
+        "body": "",
+        "tags": [],
+        "type": "feat",
+        "scope": null,
+        "scopeText": null,
+        "breakingChange": false,
+        "description": "init"
       }
     ]
   }
