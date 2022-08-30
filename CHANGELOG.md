@@ -1,9 +1,16 @@
 
-## Unreleased 
+## 1 (2022-8-30)
 
 ### 🐛 Fixes
 
 - add master close request action ([9094335](https://github.com/BrandSourceDigital/alta/commit/909433521d12d2101e3334fc4fc849ffc2c1167e))
+
+
+## Unreleased 
+
+### 🐛 Fixes
+
+- fix fix stupid shit ([25a05d5](https://github.com/BrandSourceDigital/alta/commit/25a05d54f0ab730e5e5ea628c928d317ec20d299))
 
 
 ## v1.26.0 (2022-8-30)
