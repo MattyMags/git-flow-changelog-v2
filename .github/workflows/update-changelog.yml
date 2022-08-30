@@ -1,16 +1,12 @@
 name: "Update Changelog"
 on:
-  workflow_dispatch:
-
   workflow_run:
     workflows: ["Publish new release"]
     types:
       - completed
-  pull_request:
+  push:
     branches:
       - master
-    types:
-      - closed
 
 jobs:
   update:
