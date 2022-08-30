@@ -1,12 +1,12 @@
 
 ## Unreleased 
 
+
+## v1.23.0 (2022-8-30)
+
 ### ✨ Features
 
 - idk ([fcd7528](https://github.com/BrandSourceDigital/alta/commit/fcd752805c88f8a2e5a4dc7dccbb7eab3ea91849))
-
-
-## v1.23.0 (2022-8-30)
 
 
 ## v1.22.0 (2022-8-30)
