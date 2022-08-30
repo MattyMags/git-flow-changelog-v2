@@ -19,7 +19,7 @@ jobs:
 
       - uses: actions/checkout@v2
       - name: Update changelog
-        run: git log --graph --oneline --decorate && yarn install && yarn changelog
+        run: git rev-list --remotes && yarn install && yarn changelog
 
       # In order to make a commit, we need to initialize a user.
       # You may choose to write something less generic here if you want, it doesn't matter functionality wise.
