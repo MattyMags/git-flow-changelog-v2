@@ -3,10 +3,17 @@
 
 ### 🐛 Fixes
 
-- move changelog script to publish script ([7dfa937](https://github.com/BrandSourceDigital/alta/commit/7dfa937b9deb26b27e20d985e8e330d2b5f3aa99))
+- switch around actions ([fe34935](https://github.com/BrandSourceDigital/alta/commit/fe34935c09c8b83d58c7a820a1e55504ef7f01be))
+
+
+## v1.19.0 (2022-8-30)
 
 
 ## v1.18.0 (2022-8-30)
+
+### 🐛 Fixes
+
+- move changelog script to publish script ([7dfa937](https://github.com/BrandSourceDigital/alta/commit/7dfa937b9deb26b27e20d985e8e330d2b5f3aa99))
 
 
 ## v1.17.0 (2022-8-30)
