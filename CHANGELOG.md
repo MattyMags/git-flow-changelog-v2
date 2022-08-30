@@ -1,6 +1,13 @@
 
 ## Unreleased 
 
+### 🐛 Fixes
+
+- move changelog script to publish script ([7dfa937](https://github.com/BrandSourceDigital/alta/commit/7dfa937b9deb26b27e20d985e8e330d2b5f3aa99))
+
+
+## v1.18.0 (2022-8-30)
+
 
 ## v1.17.0 (2022-8-30)
 
