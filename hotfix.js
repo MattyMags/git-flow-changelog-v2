@@ -1,1 +1,1 @@
-const hotfix = "this is a hotfix";
+const hotfix = "this is a hotfixx";
